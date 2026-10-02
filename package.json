@@ -1,0 +1,19 @@
+{
+  "name": "executive-portfolio",
+  "version": "1.0.0",
+  "description": "Executive portfolio website for government and enterprise roles",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Static site ready for deployment'",
+    "deploy": "echo 'Deploy to GitHub Pages or Vercel'"
+  },
+  "keywords": [
+    "portfolio",
+    "executive",
+    "government",
+    "professional"
+  ],
+  "author": "BLACK08-VENN",
+  "license": "MIT"
+}
